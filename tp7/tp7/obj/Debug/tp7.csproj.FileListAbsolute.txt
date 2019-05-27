@@ -1,0 +1,7 @@
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\obj\Debug\tp7.csprojAssemblyReference.cache
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\obj\Debug\tp7.csproj.CoreCompileInputs.cache
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\bin\Debug\tp7.exe.config
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\bin\Debug\tp7.exe
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\bin\Debug\tp7.pdb
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\obj\Debug\tp7.exe
+E:\Repositorio\tp-nro7-IsabellaMuroni\tp7\tp7\obj\Debug\tp7.pdb
